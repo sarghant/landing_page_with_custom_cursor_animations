@@ -1,0 +1,15 @@
+{
+  "name": "anim_cursor_hover_img_2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sass": "sass --watch src/main.scss styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.52.2"
+  }
+}
